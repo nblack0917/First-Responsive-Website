@@ -36,6 +36,10 @@ h2 {
     text-align: center;
 }
 
+.welcome_box .wrap {
+    display: inline;
+}
+
 .bottom {
     display: flex;
     align-items: center;
@@ -98,6 +102,10 @@ h2 {
 
     .welcome_box {
         text-align: left;
+    }
+
+    .welcome_box .wrap {
+        display: block;
     }
 
     .bottom {
